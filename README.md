@@ -11,3 +11,4 @@ To install, do the following:
 ## Understand this might not work for you, and that I ultimately do NOT provide support, just trying to help people out by giving them something that worked for me, or sending them in the right direction.
 
 Don't contact me asking for support or help.
+pCasino is not mine. Find them here. https://www.gmodstore.com/market/view/pcasino-the-perfect-casino-addon-roulette-blackjack-slots-prize-wheel
